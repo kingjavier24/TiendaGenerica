@@ -1,0 +1,2 @@
+# TiendaGenerica
+Diseño tienda xd
